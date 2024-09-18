@@ -1,3 +1,5 @@
+# Custom Recipe Generator
+
 Welcome to the Custom Recipe Generator! This project leverages generative AI to create personalized recipes based on the ingredients you have on hand. Simply input a list of available ingredients, and the AI will generate a variety of unique and creative recipes.
 
 ## Features
