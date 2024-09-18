@@ -2,9 +2,13 @@ Welcome to the Custom Recipe Generator! This project leverages generative AI to 
 
 ## Features
  •Generate custom recipes using your available ingredients.
+ 
  •Integration with OpenAI API for recipe generation.
+ 
  •Utilizes OpenAI's GPT-3.5 Turbo model for recipe generation.
+ 
  •Easy to set up and run using Python on Replit.
+ 
  •Simple web interface using Flask.
  
 ## How to Use
