@@ -21,7 +21,7 @@ Welcome to the Custom Recipe Generator! This project leverages generative AI to 
  •A Bolt IoT API key
 
 ### Installation
- •Install the necessary Dependencies:  pip install boltiotai
+ •Enter the following commands in the Replit shell to install the necessary dependencies:  pip install boltiotai
 
 ## Configuration
  •Obtain your API keys from OpenAI and Boltiotai.
