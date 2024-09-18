@@ -16,7 +16,7 @@ Welcome to the Custom Recipe Generator! This project leverages generative AI to 
 ### Installation
  •Install the necessary Dependencies: pip install boltiotai
 
-### Configuration
+## Configuration
  •Obtain your API keys from OpenAI and Boltiotai.
  •Set your API Keys.
  •Import necessary libraries in your main application file:
@@ -24,7 +24,7 @@ Welcome to the Custom Recipe Generator! This project leverages generative AI to 
  import os
  from flask import Flask, render_template_string, request
 
- ### Contributing
+ ## Contributing
  Contributions are welcomed!Fork the repo and submit a pull request with your changes.
 
  ### Conclusion
