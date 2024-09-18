@@ -29,8 +29,12 @@ Welcome to the Custom Recipe Generator! This project leverages generative AI to 
  •Import necessary libraries in your main application file:
  
  from boltiotai import openai
+ 
  import os
- from flask import Flask, render_template_string, request
+ 
+ from flask import Flask, 
+ 
+ render_template_string, request
 
  ## Contributing
  Contributions are welcomed!Fork the repo and submit a pull request with your changes.
