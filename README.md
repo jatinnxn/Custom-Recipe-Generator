@@ -15,15 +15,19 @@ Welcome to the Custom Recipe Generator! This project leverages generative AI to 
 
 ### Prerequisites
  •An OpenAI API key
+ 
  •A Bolt IoT API key
 
 ### Installation
- •Install the necessary Dependencies: pip install boltiotai
+ •Install the necessary Dependencies:  pip install boltiotai
 
 ## Configuration
  •Obtain your API keys from OpenAI and Boltiotai.
+ 
  •Set your API Keys.
+ 
  •Import necessary libraries in your main application file:
+ 
  from boltiotai import openai
  import os
  from flask import Flask, render_template_string, request
