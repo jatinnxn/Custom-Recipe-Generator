@@ -1,0 +1,2 @@
+Welcome to the Custom Recipe Generator! This project leverages generative AI to create personalized recipes based on the ingredients you have. Simply input a list of available ingredients, and the AI will generate a variety of unique and creative recipes .
+How To Use: 1.Install Dependencies. 2.Run the application 3.Input your available ingredients, and the AI will generate a list of custom recipes based on those ingredients.
