@@ -9,7 +9,7 @@ Welcome to the Custom Recipe Generator! This project leverages generative AI to 
  
 ## How to Use
 
-###Prerequisites
+### Prerequisites
  •An OpenAI API key
  •A Bolt IoT API key
 
@@ -27,6 +27,6 @@ Welcome to the Custom Recipe Generator! This project leverages generative AI to 
  ## Contributing
  Contributions are welcomed!Fork the repo and submit a pull request with your changes.
 
- ### Conclusion
+ ## Conclusion
 Thank you for using the Custom Recipe Generator! If you have any suggestions or feedback, feel free to reach out or contribute to the project. Happy cooking!
 
